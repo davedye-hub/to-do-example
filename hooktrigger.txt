@@ -15,3 +15,8 @@ that worked
 adding in the rest of the commands instead of using git repository to see if I can get them to work
 7th trigger
 fixed rogue deploy.sh command
+8th trigger
+apt install python3.8-venv failed
+error says may need sudo with the command - actually a typo, already had sudo
+also has -Im, ensurepip, --upgrade, --default-pip
+will have to look at what those mean...
