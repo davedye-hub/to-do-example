@@ -25,3 +25,5 @@ still have a failing install of python
 made a change to troubleshoot
 10th trigger
 there was another sudo typo...
+11th trigger
+added -y on install so that [y/n] abort doesn't happen
