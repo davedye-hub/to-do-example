@@ -11,3 +11,5 @@ adding in sud get-apt update...
 that failed, sudo needs a password
 edited sudoers to allow sudo with no password
 6th trigger
+that worked
+adding in the rest of the commands instead of using git repository to see if I can get them to work
