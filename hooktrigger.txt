@@ -1,3 +1,7 @@
-trigger
+1st trigger
+changed execute shell to have only echo statement
 2nd trigger
+removed check box on use secret text
 3rd trigger
+fixed missing " from end of echo command!
+4th trigger
