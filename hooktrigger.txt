@@ -27,3 +27,6 @@ made a change to troubleshoot
 there was another sudo typo...
 11th trigger
 added -y on install so that [y/n] abort doesn't happen
+---That worked!---
+12th trigger
+Add in venv...
