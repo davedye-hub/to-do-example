@@ -7,3 +7,7 @@ fixed missing " from end of echo command!
 4th trigger
 that worked
 adding in sud get-apt update...
+5th trigger
+that failed, sudo needs a password
+edited sudoers to allow sudo with no password
+6th trigger
