@@ -5,3 +5,5 @@ removed check box on use secret text
 3rd trigger
 fixed missing " from end of echo command!
 4th trigger
+that worked
+adding in sud get-apt update...
