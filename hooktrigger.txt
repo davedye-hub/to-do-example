@@ -32,3 +32,5 @@ added -y on install so that [y/n] abort doesn't happen
 Add in venv...
 13th trigger
 repeat echo so can see what's working
+14th trigger
+add in the rest of the commands I think I need
